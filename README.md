@@ -2,7 +2,7 @@
 
 ## Overview ##
 
-The Ripple-REST API provides a simplified, easy-to-use interface to the Ripple Network via a RESTful API. This page explains how to use the API to send and receive payments on Ripple.
+The Ripple-REST API provides a simplified, easy-to-use interface to the Ripple Network via a RESTful API.
 
 This fork makes changes to allow deployment to OpenShift.
 See upstream project for more information on Ripple-REST specifically.
