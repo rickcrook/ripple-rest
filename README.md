@@ -13,6 +13,6 @@ I assume you have OpenShift setup correctly and have already tested by following
 
 Follow these instructions to get your `ripple-rest` server running on OpenShift
 
-1. run 'rhc app-create ripplerest nodejs-0.10 --from-code https://github.com/rickcrook/ripple-rest.git'
+1. run `rhc app-create ripplerest nodejs-0.10 --from-code https://github.com/rickcrook/ripple-rest.git`
 2. Visit your apps URL
 
